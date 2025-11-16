@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: planning-storytemplate-done.jpg
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
